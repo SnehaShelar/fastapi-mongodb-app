@@ -19,7 +19,7 @@ A lightweight, modular Task Management REST API built with **FastAPI**, **MongoD
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/fastapi-mongodb-app.git
+git clone https://github.com/SnehaShelar/fastapi-mongodb-app.git
 cd fastapi-mongodb-app
 ```
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ### 4. Run the server
 ```bash
-uvicorn main:app --reload
+uvicorn Specto.main:app --reload
 ```
 ---
 ## 🧪 Testing the API
