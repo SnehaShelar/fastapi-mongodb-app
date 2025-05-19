@@ -7,8 +7,6 @@ from Specto.config.db import task_collection
 from Specto.routers import project, tasks, user
 from Specto.settings import app_settings
 
-from .tasks import send_notification_async
-
 app = FastAPI()
 
 origins = [
